@@ -1,0 +1,7 @@
+*~
+.ivy2
+.sbt
+client/project/target
+client/target
+worker/project/target
+worker/target
