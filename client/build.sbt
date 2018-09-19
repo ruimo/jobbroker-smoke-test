@@ -7,7 +7,7 @@ resolvers += "ruimo.com" at "http://static.ruimo.com/release"
 
 scalacOptions ++= Seq("-unchecked", "-deprecation", "-feature")
 
-libraryDependencies += "com.ruimo" %% "jobbroker-client-scala" % "1.0-SNAPSHOT"
+libraryDependencies += "com.ruimo" %% "jobbroker-client-scala" % "1.0"
 libraryDependencies += "com.googlecode.log4jdbc" % "log4jdbc" % "1.2"
 libraryDependencies += "ch.qos.logback" % "logback-core" % "1.2.3"
 libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.2.3"
